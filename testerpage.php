@@ -27,7 +27,7 @@ if(isset($_COOKIE['user'])) {
 echo '<center><img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_64.png" /></center>'; 
   /*include*/require 'header.php';
   /*
-  Author: Alen Panjaković
+  Author: Alen P
   Date: 31.8.2015.   
   */
     // Uses echo language construct to output the text "Test." to the browser.
@@ -354,10 +354,10 @@ foreach ($read as $line) {
 
   ?>	
   <script language ="php">
-	echo "<p>&copy;".date('Y')." Alen Panjaković</p>";
+	echo "<p>&copy;".date('Y')." Alen P</p>";
   </script>
   <?php
-	echo "<p>&copy;".date('Y')." Alen Panjaković</p>";
+	echo "<p>&copy;".date('Y')." Alen P</p>";
   ?>
 <body>
             
